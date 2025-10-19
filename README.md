@@ -1,24 +1,70 @@
-# 💫 About Me:
-Hi there, I'm Farida Sabrin 👋  <br><br>Front-End Web Developer | Creative Coder | Lifelong Learner  <br>I’m a passionate developer from India who loves building beautiful, responsive, and user-friendly websites.  <br>I enjoy learning new web technologies, improving UI/UX, and turning ideas into reality through code.<br><br>---<br><br>🛠️ Tech Stack  <br>- Frontend: HTML, CSS, JavaScript  <br>- Tools & Platforms: Git, GitHub, VS Code, Bootstrap, Tailwind CSS  <br>- Currently Learning: React, modern JavaScript, and responsive design  <br><br>---<br><br>🚀 Featured Projects  <br><br>🎵 [Spotify Clone](#)  <br>A responsive web music player inspired by Spotify, built using modern web technologies.  <br>Tech Used: HTML, CSS, JavaScript  <br><br>📅 [Daily Planner App](#)  <br>A simple and clean planner web app for organizing daily tasks and schedules.  <br>Tech Used: HTML, CSS, JavaScript  <br><br>💻 [CODSOFT Internship Projects](#)  <br>During my internship at CODSOFT, I developed multiple web-based projects to enhance my front-end and programming skills.  <br>Tech Used: HTML, CSS, JavaScript, GitHub  <br><br>---<br><br>🎯 Currently Exploring  <br>- Responsive web design & animations  <br>- Front-end frameworks like React  <br>- Open-source web projects & collaboration  <br><br>---<br><br>📬 Let's Connect!  <br>- LinkedIn: [Farida Sabrin](https://www.linkedin.com/in/farida-sabrin-766520302/?trk=public-profile-join-page)  <br>- GitHub: [@FaridaSabrin](https://github.com/FaridaSabrin)  <br>- Email: frdsabrin@gmail.com  <br><br>---<br><br>“Designing with code to make the web more beautiful and functional.”  <br>
+# 💫 About Me
+Hi there, I'm **Farida Sabrin** 👋  
 
+Front-End Web Developer | Creative Coder | Lifelong Learner  
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/faridasabrin) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/faridasabrin) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/AsUrrQu9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/farida_sabrin11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/FARIDA SABRIN) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@FARIDA SABRIN_11) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Farida Sabrin) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Farida Sabrin) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ Farida Sabirn) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@fairy_farida) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Farida Sabrin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:frdsabrin@gmail.com) 
+I build **beautiful, responsive, and user-friendly websites**. Passionate about **UI/UX design, modern web technologies, and front-end frameworks**, I love turning ideas into reality through code.  
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FaridaSabrin&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=FaridaSabrin&theme=rose&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FaridaSabrin&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=FaridaSabrin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=FaridaSabrin&limit=5&theme=dark&combine_all_yearly_contributions=true)
+*"Designing with code to make the web more beautiful and functional."*
 
 ---
-[![](https://visitcount.itsvg.in/api?id=FaridaSabrin&icon=9&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack & Skills
+**Frontend & Tools**  
+
+![HTML](https://progress-bar.dev/90/?title=HTML&color=blue)  
+![CSS](https://progress-bar.dev/85/?title=CSS&color=purple)  
+![JavaScript](https://progress-bar.dev/80/?title=JavaScript&color=yellow)  
+![React](https://progress-bar.dev/70/?title=React&color=61DAFB)  
+![Bootstrap](https://progress-bar.dev/75/?title=Bootstrap&color=violet)  
+![TailwindCSS](https://progress-bar.dev/70/?title=Tailwind&color=38B2AC)  
+![Git](https://progress-bar.dev/80/?title=Git&color=F05033)  
+
+---
+
+## 🚀 Featured Projects
+
+### 🎵 [Spotify Clone](#)
+A responsive web music player inspired by Spotify.  
+**Tech Used:** HTML, CSS, JavaScript  
+![Spotify Clone Demo](https://raw.githubusercontent.com/FaridaSabrin/SpotifyClone/main/spotify-demo.gif)
+
+### 📅 [Daily Planner App](#)
+Organize daily tasks with this clean and simple planner app.  
+**Tech Used:** HTML, CSS, JavaScript  
+![Daily Planner Demo](https://raw.githubusercontent.com/FaridaSabrin/DailyPlannerApp/main/planner-demo.gif)
+
+### 💻 [CODSOFT Internship Projects](#)
+Multiple web-based projects developed during my internship at CODSOFT.  
+**Tech Used:** HTML, CSS, JavaScript, GitHub  
+![CODSOFT Projects Demo](https://raw.githubusercontent.com/FaridaSabrin/CODSOFT-Projects/main/codsoft-demo.gif)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaridaSabrin&theme=rose&show_icons=true)  
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=FaridaSabrin&theme=rose)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FaridaSabrin&layout=compact&theme=rose)  
+
+---
+
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=FaridaSabrin&theme=radical&no-bg=true&margin-w=4)
+
+---
+
+## 🔝 Top Contributed Repositories
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=FaridaSabrin&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farida-sabrin-766520302)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/FaridaSabrin)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:frdsabrin@gmail.com)  
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/faridasabrin)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/farida_sabrin11)  
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=FaridaSabrin&icon=9&color=5&animated=true)](https://visitcount.itsvg.in)
